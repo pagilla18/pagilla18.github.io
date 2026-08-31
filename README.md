@@ -1,9 +1,9 @@
 # pagilla18.github.io
-Robin Sound Labs
 
+Robin Sound Labs
 Premium Minimalist Audio/Video Environments
 
-Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player: Music Player and Fire Video Player — that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices.
+Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player: Music Player, and Fire Video Player. For full details regarding our developer identity, comprehensive privacy policy (covering offline data handling, device permissions, Chromecast local network operations, monetization frameworks, and children's privacy), and corporate contact channels, please refer to the complete markdown layout provided in the repository source.
 
 Developer Transparency & Identity
 
@@ -34,9 +34,8 @@ FOREGROUND_SERVICE: Required to ensure uninterrupted background audio processing
 READ_MEDIA_VIDEO: (For Android 13+) Required to scan and index local video container formats.
 SYSTEM_ALERT_WINDOW: (Optional) Required exclusively if you utilize the background pop-up or custom Picture-in-Picture window overlay feature to display floating video canvases on top of other running applications.
 
-3. Google Cast / Chromecast Integration & Local Network Operations
+3. Google Cast / Chromecast Integration & Local Network Operations:
 Our applications (including Canary Player and Fire Video Player) provide features that allow you to cast your local audio and video files directly to Google Cast-enabled devices (such as a TV, Android TV, or smart speaker) on your local network.
-
 How it Works: Chromecast hardware cannot directly stream or read files saved natively on your mobile phone's private storage (such as content:// or file: URIs). To bridge this gap, when you explicitly tap the Cast icon and connect to a device, the application temporarily launches a highly secure, lightweight, internal HTTP server locally on your phone. This server temporarily maps your selected music tracks to private, local network URLs.
 Network & Background Permissions: To keep playback active when your screen turns off, the application uses local Wi-Fi connectivity and updates its background service to seamlessly hand off playback control to the Google Cast player. 
 Data Sovereignty: This streaming pipeline occurs 100% on your device and inside your private home Wi-Fi network. No media files, tracking analytics, or telemetry data are ever uploaded, sent to, or processed on an external cloud server. 
