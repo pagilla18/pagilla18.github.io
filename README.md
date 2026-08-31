@@ -2,7 +2,7 @@
 Robin Sound Labs
 Premium Minimalist Audio/Video Environments
 
-Welcome to Robin Sound Labs. We engineer premium, minimalist media players that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices.
+Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player: Music Player and Fire Video Player — that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices.
 
 Developer Transparency & Identity
 
@@ -38,8 +38,8 @@ SYSTEM_ALERT_WINDOW: (Optional) Required exclusively if you utilize the backgrou
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications: Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline.
-Free Applications (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline.
+Free Applications (Canary Player: Music Player and Fire Video Player) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 4. Children’s Privacy
 
