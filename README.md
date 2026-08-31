@@ -25,6 +25,14 @@ Our applications function as local, offline media players and do not collect or 
 ### 2. Device Permissions Used
 Requests system permissions like storage access and foreground services solely to support local playback functionality.
 
+To provide high-fidelity audio playback, our applications request the following system permissions:
+
+READ_EXTERNAL_STORAGE / READ_MEDIA_AUDIO: Required to scan and play audio files stored locally on your physical device.
+FOREGROUND_SERVICE: Required to ensure uninterrupted background audio processing when the application is minimized or your screen is deactivated.
+
+READ_MEDIA_VIDEO: (For Android 13+) Required to scan and index local video container formats.
+SYSTEM_ALERT_WINDOW: (Optional) Required exclusively if you utilize the background pop-up or custom Picture-in-Picture window overlay feature to display floating video canvases on top of other running applications.
+
 ### 3. Google Cast / Chromecast Integration & Local Network Operations
 Allows local casting via an internal local HTTP server entirely within your private home network without external cloud processing.
 
