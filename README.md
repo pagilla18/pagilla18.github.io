@@ -1,6 +1,7 @@
 # pagilla18.github.io
 
 Premium Minimalist Audio and Video Environments
+
 Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player: Music Player and Fire Video Player — that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices.
 
 Developer Transparency & Identity
