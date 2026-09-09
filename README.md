@@ -53,8 +53,6 @@ Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements
 
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
-The app operates with minimal permissions, requiring only standard internet access for ads, without needing access to your camera, microphone, or storage.
-
 5. Children’s Privacy :
 
 Our applications do not collect or harvest any data from anyone, including children under the age of 13. While our free version serves ads compliant with Google Play’s Families Policy, our tools remain entirely safe for family use.
