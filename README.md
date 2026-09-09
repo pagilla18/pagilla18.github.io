@@ -16,7 +16,7 @@ Corporate Support Desk: pagilla18@gmail.com
 Official Hotline: +91 6305992280
 Privacy Policy
 
-Last Updated: September 7, 2026
+Last Updated: September 9, 2026
 
 Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Bitperfect Canary Music Player, Shopping List Tracker, and BookStreak : book tracker and TBR—handle data on your Android device.
 
