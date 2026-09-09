@@ -18,32 +18,38 @@ Privacy Policy
 
 Last Updated: September 7, 2026
 
-Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Bitperfect Canary Music Player, and Shopping List Tracker—handle data on your Android device.
+Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Bitperfect Canary Music Player, Shopping List Tracker, and BookStreak : book tracker and TBR—handle data on your Android device.
 
-1. Information Collection and Use
-
-Our applications function fundamentally as local, offline media players.
+1. Information Collection and Use Our applications function fundamentally as local, privacy-first utilities. Your usage habits remain entirely secure and offline.
 
 Personal Data: Robin Sound Labs does not collect, store, transmit, or share any personal identification information (such as your name, email address, phone number, or telemetry location data).
-Media Files: The applications require user permission to access local device storage solely to scan, index, and display your local media (audio, video) files for playback management. We do not catalog, upload, or modify your files.
-Calculations: Shopping list data and calculations remain entirely on-device.
 
-For the Shopping List Tracker app: All budget calculations, item prices, and demo invoice data are generated purely on-device and are never uploaded, collected, or shared.”
+Media & Audio Files (Pure Audio & Bitperfect Canary): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
 
-2. Device Permissions Used
+Calculations (Shopping List Tracker): All budget calculations, item prices, and data remain entirely on-device and are never uploaded or shared.
 
-To provide high-fidelity audio playback, our applications request the following system permissions:
+Book Logs & Reading Data (BookStreak): All reading goals, custom book lists, and reading statistics generated within BookStreak are saved locally on your device's internal database. We do not track what you read.
 
-READ_EXTERNAL_STORAGE / READ_MEDIA_AUDIO: Required to scan and play audio files stored locally on your physical device.
-FOREGROUND_SERVICE: Required to ensure uninterrupted background audio processing when the application is minimized or your screen is deactivated.
-3. Google Cast / Chromecast Integration & Local Network Operations
-Allows local casting via an internal local HTTP server entirely within your private home network without external cloud processing.
+2. Device Permissions Used To support advanced features across our ecosystem, our applications request the following system permissions, used exclusively for core functionality:
 
-4. Monetization & Advertising Framework
+Google Books API Integration
+Our application queries the third-party Google Books API to instantly fetch public book metadata (such as titles, author names, description details, and cover art URLs) when you scan an ISBN barcode or type in a text search query. 
+
+BookStreak does not transmit or share any of your personal data, reading logs, or account identities with Google. However, by querying their service, you acknowledge that Google may automatically receive and log structural network technical data (including your IP address, device type, and timestamp) required to securely process the request and maintain API infrastructure integrity. For further details regarding their data tracking standards, please review the official Google Privacy Policy (https://policies.google.com/privacy).
+
+CAMERA Access (Used by BookStreak): Required solely to scan book ISBN barcodes using your device's hardware camera. The barcode numbers are processed locally to query book information. We do not capture, record, store, or upload photos or videos.
+
+READ_EXTERNAL_STORAGE / WRITE_EXTERNAL_STORAGE / READ_MEDIA (Used by Music Players & BookStreak):For Music Players: Required to scan and play audio files stored locally on your physical device.
+
+For BookStreak: Strictly required to manage data portability, allowing you to export your data as a local backup file or import existing backup files back into the application.
+
+FOREGROUND_SERVICE (Used by Music Players): Required to ensure uninterrupted background audio processing when the media players are minimized or your screen is deactivated.
+
+3. Monetization & Advertising Framework
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Bitperfect Canary Music Player and Shopping List Tracker) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Bitperfect Canary Music Player, Shopping List Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
