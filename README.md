@@ -3,7 +3,7 @@
 Robin Sound Labs
 Premium Minimalist Audio Environments and utility apps
 
-Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Bitperfect Canary Music Player— that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices. We have another app Shopping List Tracker which doesn’t require any permissions.
+Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Pure Audio Music Player (free)— that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices. We have another app Shopping List Tracker which doesn’t require any permissions.
 
 Developer Transparency & Identity
 
@@ -18,13 +18,13 @@ Privacy Policy
 
 Last Updated: September 9, 2026
 
-Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Bitperfect Canary Music Player, Shopping List Tracker, and BookStreak : book tracker and TBR—handle data on your Android device.
+Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Pure Audio Music Player (free), Shopping List Tracker, and BookStreak : book tracker and TBR—handle data on your Android device.
 
 1. Information Collection and Use Our applications function fundamentally as local, privacy-first utilities. Your usage habits remain entirely secure and offline.
 
 Personal Data: Robin Sound Labs does not collect, store, transmit, or share any personal identification information (such as your name, email address, phone number, or telemetry location data).
 
-Media & Audio Files (Pure Audio & Bitperfect Canary): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
+Media & Audio Files (Pure Audio Music Player & Pure Audio Music Player (free)): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
 
 Calculations (Shopping List Tracker): All budget calculations, item prices, and data remain entirely on-device and are never uploaded or shared.
 
@@ -49,7 +49,7 @@ FOREGROUND_SERVICE (Used by Music Players): Required to ensure uninterrupted bac
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Bitperfect Canary Music Player, Shopping List Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Pure Audio Music Player (free), Shopping List Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
