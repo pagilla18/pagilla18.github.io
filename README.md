@@ -47,6 +47,8 @@ For BookStreak: Strictly required to manage data portability, allowing you to ex
 
 FOREGROUND_SERVICE (Used by Music Players): Required to ensure uninterrupted background audio processing when the media players are minimized or your screen is deactivated.
 
+Robin habit tracker: operates completely locally and does not access or request sensitive system alarms like SCHEDULE_EXACT_ALARM. All routine notifications use standard, energy-efficient system broadcasts. No notification details or schedule configurations ever leave your physical device.
+
 3. Monetization & Advertising Framework
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
