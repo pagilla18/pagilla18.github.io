@@ -18,7 +18,7 @@ Privacy Policy
 
 Last Updated: September 9, 2026
 
-Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player,Robin Mp3 offline music player, Shopping List Tracker, and BookStreak : book tracker and TBR—handle data on your Android device.
+Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player,Robin Mp3 offline music player, Shopping List Tracker, Robin habit tracker and BookStreak : book tracker and TBR—handle data on your Android device.
 
 1. Information Collection and Use Our applications function fundamentally as local, privacy-first utilities. Your usage habits remain entirely secure and offline.
 
@@ -27,6 +27,8 @@ Personal Data: Robin Sound Labs does not collect, store, transmit, or share any 
 Media & Audio Files (Pure Audio Music Player & Robin Mp3 offline music player): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
 
 Calculations (Shopping List Tracker): All budget calculations, item prices, and data remain entirely on-device and are never uploaded or shared.
+
+Robin habit tracker: Habit Logs & Streak Analytics all routine schedules, calendar history, and streak logs are saved strictly in your device's isolated internal database and remain entirely offline.
 
 Book Logs & Reading Data (BookStreak): All reading goals, custom book lists, and reading statistics generated within BookStreak are saved locally on your device's internal database. We do not track what you read.
 
@@ -49,7 +51,7 @@ FOREGROUND_SERVICE (Used by Music Players): Required to ensure uninterrupted bac
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker, Robin habit tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
@@ -57,6 +59,8 @@ Local Typography: To display interface typography, font assets are bundled local
 
 Our applications do not collect or harvest any data from anyone, including children under the age of 13. While our free version serves ads compliant with Google Play’s Families Policy, our tools remain entirely safe for family use.
 
-6. Contact Us :
+6. Data Retention & Erasure :  uninstalling the app permanently erases all locally stored routines and history.
+
+7. Contact Us :
 
 If you have any questions or feedback regarding this privacy infrastructure, please reach out to us via our corporate developer support channel at: pagilla18@gmail.com.
