@@ -61,7 +61,7 @@ Local Typography: To display interface typography, font assets are bundled local
 
 Our applications do not collect or harvest any data from anyone, including children under the age of 13. While our free version serves ads compliant with Google Play’s Families Policy, our tools remain entirely safe for family use.
 
-6. Data Retention & Erasure :  uninstalling the app permanently erases all locally stored routines and history.
+6. Data Retention & Erasure :  uninstalling the app permanently erases all locally stored routines and history. We do not collect or store personal data on external servers.
 
 7. Contact Us :
 
