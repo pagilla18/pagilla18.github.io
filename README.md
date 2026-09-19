@@ -61,7 +61,11 @@ Local Typography: To display interface typography, font assets are bundled local
 
 Our applications do not collect or harvest any data from anyone, including children under the age of 13. While our free version serves ads compliant with Google Play’s Families Policy, our tools remain entirely safe for family use.
 
-6. Data Retention & Erasure :  uninstalling the app permanently erases all locally stored routines and history. We do not collect or store personal data on external servers.
+6. Data Retention, Erasure & Global Rights
+
+Because all application modules operate fundamentally as local-first utilities, Robin Sound Labs does not store, retain, or transmit your personal data or application logs to any external servers. 
+* **Data Retention & Erasure:** All user configurations, habit logs, reading metrics, and list databases are maintained strictly within your device's isolated internal storage. Uninstalling or deleting the application from your physical device will instantly, automatically, and permanently erase all locally compiled history and routine logs.
+* **Global Privacy Rights (GDPR / CCPA):** Since we maintain zero network databases containing your identity or usage metrics, we cannot access, modify, or delete your information on your behalf. You retain absolute control over your digital footprint natively by managing local application storage or modifying your device's Android Advertising ID settings.
 
 7. Contact Us :
 
