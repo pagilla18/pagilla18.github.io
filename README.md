@@ -18,7 +18,7 @@ Privacy Policy
 
 Last Updated: September 9, 2026
 
-Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player,Robin Mp3 offline music player, Shopping List Tracker, Robin habit tracker and BookStreak : book tracker and TBR—handle data on your Android device.
+Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR—handle data on your Android device.
 
 1. Information Collection and Use Our applications function fundamentally as local, privacy-first utilities. Your usage habits remain entirely secure and offline.
 
@@ -28,7 +28,7 @@ Media & Audio Files (Pure Audio Music Player & Robin Mp3 offline music player): 
 
 Calculations (Shopping List Tracker): All budget calculations, item prices, and data remain entirely on-device and are never uploaded or shared.
 
-Robin habit tracker: Habit Logs & Streak Analytics all routine schedules, calendar history, and streak logs are saved strictly in your device's isolated internal database and remain entirely offline.
+Robin Habit Tracker: Habit Logs & Streak Analytics all routine schedules, calendar history, and streak logs are saved strictly in your device's isolated internal database and remain entirely offline.
 
 Book Logs & Reading Data (BookStreak): All reading goals, custom book lists, and reading statistics generated within BookStreak are saved locally on your device's internal database. We do not track what you read.
 
@@ -47,13 +47,13 @@ For BookStreak: Strictly required to manage data portability, allowing you to ex
 
 FOREGROUND_SERVICE (Used by Music Players): Required to ensure uninterrupted background audio processing when the media players are minimized or your screen is deactivated.
 
-Robin habit tracker: operates completely locally and does not access or request sensitive system alarms like SCHEDULE_EXACT_ALARM. All routine notifications use standard, energy-efficient system broadcasts. No notification details or schedule configurations ever leave your physical device.
+Robin Habit Tracker: operates completely locally and does not access or request sensitive system alarms like SCHEDULE_EXACT_ALARM. All routine notifications use standard, energy-efficient system broadcasts. No notification details or schedule configurations ever leave your physical device.
 
 3. Monetization & Advertising Framework
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker, Robin habit tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
