@@ -29,6 +29,32 @@ Media & Audio Files (Pure Audio Music Player, Canary Player Pro & Robin Mp3 offl
 
 **Clipboard Access (Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player):** Our application allows you to manually paste song lyrics retrieved from your web browser into the app. The application accesses your device's system clipboard strictly when you explicitly initiate the paste action. This data is processed locally on your device solely to display and save the lyrics to your offline local media library database. We do not upload, share, or transmit your clipboard contents to any external servers or third parties.
 
+Voice Search & Microphone Access (Search Mic)
+•How It Works: Canary Player Pro, Robin Mp3 offline music player includes an optional Voice Search feature allowing you to speak song titles, radio station frequencies, or audiobook names instead of typing.
+•Data Handling:
+◦Voice processing is handled using Android’s native Speech Recognition framework (RecognizerIntent).
+◦Canary Player Pro, Robin Mp3 offline music player does NOT record, collect, store, or transmit your raw voice audio to external servers.
+◦On supported Android devices, voice recognition is performed entirely on-device (offline). The spoken voice is converted locally into a plain text search string on your device.
+
+Text Search Query Input (Search Button)
+•How It Works: When you type a search term (such as a song, artist, movie, or station name) in the search bar, the app uses that text to search your local device storage and query open public audio directories.
+•Data Handling:
+◦Your search terms are used solely to fetch matching audio tracks, radio stations, podcasts, or audiobooks.
+◦Search queries are never linked to any personal identity, account, email, or device ID.
+◦Canary Player Pro, Robin Mp3 offline music player does not log, track, or sell your search history
+
+Live FM / Internet Radio & Recording
+•How It Works: Canary Player Pro, Robin Mp3 offline music player allows you to stream live public internet radio broadcasts (via the open Radio Browser directory and public Prasar Bharati/AIR streams) and optionally record live radio.
+•Data Handling:
+◦Radio streaming establishes a direct, secure connection between your device and the station's public streaming server. No user profile or personal information is sent to radio station servers.
+◦In-App Radio Recording: When you use the live radio recorder, the captured audio file (.mp3) is stored 100% locally on your phone's storage (/sdcard/Music/). Recorded audio is never uploaded, backed up, or shared online.
+
+Free Audiobooks & Classic Literature
+•How It Works: Canary Player Pro, Robin Mp3 offline music player streams classic public domain audiobooks via the open LibriVox Project and Internet Archive APIs.
+•Data Handling:
+◦Audiobook chapters and metadata are fetched from open public domain archives.
+◦No reading/listening history, user bookmarking data, or user profiles are tracked or transmitted to third parties.
+
 Calculations (Shopping List Tracker): All budget calculations, item prices, and data remain entirely on-device and are never uploaded or shared.
 
 Robin Habit Tracker: Habit Logs & Streak Analytics all routine schedules, calendar history, and streak logs are saved strictly in your device's isolated internal database and remain entirely offline.
