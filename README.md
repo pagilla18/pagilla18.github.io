@@ -16,11 +16,18 @@ Corporate Support Desk: pagilla18@gmail.com
 Official Hotline: +91 6305992280
 Privacy Policy
 
-Last Updated: September 9, 2026
+Last Updated: September 30, 2026
 
 Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR—handle data on your Android device.
 
-1. Information Collection and Use Our applications function fundamentally as local, privacy-first utilities. Your usage habits remain entirely secure and offline.
+Robin Mp3 offline music player, Canary Player Pro ("we," "our," or "us") operates the Canary Player mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our app and the choices you have associated with that data.
+
+1. Information Collection and Use
+We collect several different types of information for various purposes to provide and improve our service to you:
+• Audio Files & Storage Access: Canary Player requests access to your device's local audio storage (READ_MEDIA_AUDIO) solely to scan, list, and play your local music files. We do not upload your personal music files to any external servers.
+• Listening Statistics: The app tracks listening habits locally on your device to generate playback statistics (e.g., top listened songs).
+• Music Community (User-Generated Content & Profiles): If you participate in the optional Music Community feature, we collect information you voluntarily provide, such as your chosen username, profile picture, community posts, comments, direct messages, and global chat messages. This data is stored securely in Google Firebase Firestore.
+• Authentication: We use Firebase Anonymous Authentication to assign a secure temporary identifier so you can participate in the community without requiring manual sign-up forms.
 
 Personal Data: Robin Sound Labs does not collect, store, transmit, or share any personal identification information (such as your name, email address, phone number, or telemetry location data).
 
@@ -83,7 +90,8 @@ Robin Habit Tracker: operates completely locally and does not access or request 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
 Premium/Paid Applications (Pure Audio Music Player, Canary Player Pro): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
-
+Advertising (Google AdMob)
+We use Google AdMob to display ads within the app, including Interstitial Ads and Native Advanced Ads. AdMob may use device identifiers, IP addresses, and browsing data to serve personalized or non-personalized ads in compliance with Google AdMob policies. You can learn more about how Google uses data at Google's Privacy & Terms https://policies.google.com/technologies/ads .
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
 
 5. Children’s Privacy :
@@ -96,6 +104,19 @@ Because all application modules operate fundamentally as local-first utilities, 
 * **Data Retention & Erasure:** All user configurations, habit logs, reading metrics, and list databases are maintained strictly within your device's isolated internal storage. Uninstalling or deleting the application from your physical device will instantly, automatically, and permanently erase all locally compiled history and routine logs.
 * **Global Privacy Rights (GDPR / CCPA):** Since we maintain zero network databases containing your identity or usage metrics, we cannot access, modify, or delete your information on your behalf. You retain absolute control over your digital footprint natively by managing local application storage or modifying your device's Android Advertising ID settings.
 
-7. Contact Us :
+* Use of Data
+We use the collected data for the following purposes:
+•To provide and maintain the audio player and Music Community services.
+•To allow you to participate in interactive community features when you choose to do so.
+•To display relevant advertisements that support the free version of the app.
+•To monitor the usage of the app and detect, prevent, and address technical issues or policy violations.
+
+* Data Security
+The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+8. Contact Us :
 
 If you have any questions or feedback regarding this privacy infrastructure, please reach out to us via our corporate developer support channel at: pagilla18@gmail.com.
