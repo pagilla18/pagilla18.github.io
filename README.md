@@ -115,7 +115,7 @@ We use the collected data for the following purposes:
 The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
 
 7. Community Guidelines & Prohibited Content
-Canary Player provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
+Canary Player Pro, Robin Mp3 offline music player provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
 • Abusive, harassing, threatening, or hateful content.
 • Illegal content or content that violates local and international laws.
 • Spam, malware, or unauthorized commercial solicitations.
