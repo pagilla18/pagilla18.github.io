@@ -114,9 +114,17 @@ We use the collected data for the following purposes:
 * Data Security
 The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
 
-7. Changes to This Privacy Policy
+7. Community Guidelines & Prohibited Content
+Canary Player provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
+• Abusive, harassing, threatening, or hateful content.
+• Illegal content or content that violates local and international laws.
+• Spam, malware, or unauthorized commercial solicitations.
+• Explicit, inappropriate, or copyrighted material without permission.
+We reserve the right to remove any content or ban users who violate these guidelines. Users can report inappropriate content or request the removal of their data at any time by contacting us through our GitHub page.
+
+8. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-8. Contact Us :
+9. Contact Us :
 
 If you have any questions or feedback regarding this privacy infrastructure, please reach out to us via our corporate developer support channel at: pagilla18@gmail.com.
