@@ -112,7 +112,7 @@ We use the collected data for the following purposes:
 •To monitor the usage of the app and detect, prevent, and address technical issues or policy violations.
 
 * Data Security
-The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
+The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure. You can use Canary Player Pro, Robin Mp3 offline music player for features SMB, UPnP/DLNA and we do not track any of your data. 
 
 7. Community Guidelines & Prohibited Content
 Canary Player Pro, Robin Mp3 offline music player provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
