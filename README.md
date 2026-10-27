@@ -3,7 +3,7 @@
 Robin Sound Labs
 Premium Minimalist Audio Environments and utility apps
 
-Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player — that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices. We have another app Shopping List Tracker which doesn’t require any permissions.
+Welcome to Robin Sound Labs. We engineer premium, minimalist media players—including Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Simple music player offline — that blend high-fidelity spatial processing with artistic, living visual environments. Our tools are built for musicians, audio engineers, and sound enthusiasts who require robust playback architectures on Android devices. We have another app Shopping List Tracker which doesn’t require any permissions.
 
 Developer Transparency & Identity
 
@@ -18,9 +18,9 @@ Privacy Policy
 
 Last Updated: September 30, 2026
 
-Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR—handle data on your Android device.
+Welcome to Robin Sound Labs. We are committed to protecting your privacy and digital sovereignty. This Privacy Policy explains how our applications—including Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Simple music player offline, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR—handle data on your Android device.
 
-Robin Mp3 offline music player, Canary Player Pro ("we," "our," or "us") operates the Canary Player mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our app and the choices you have associated with that data.
+Robin Mp3 offline music player, Simple music player offline, Canary Player Pro ("we," "our," or "us") operates the Canary Player mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our app and the choices you have associated with that data.
 
 1. Information Collection and Use
 We collect several different types of information for various purposes to provide and improve our service to you:
@@ -31,16 +31,16 @@ We collect several different types of information for various purposes to provid
 
 Personal Data: Robin Sound Labs does not collect, store, transmit, or share any personal identification information (such as your name, email address, phone number, or telemetry location data).
 
-Media & Audio Files (Pure Audio Music Player, Canary Player Pro & Robin Mp3 offline music player): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
-**Lyrics Search Engine & Web Queries (Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player):** When you use our "Search Lyrics Online" feature, the application uses the track artist and song title to generate a standard web search string. This action opens your device’s default external web browser to display third-party search results (such as Google). We do not collect, transmit, track, or store these search queries on our servers. Your interactions with the web search engine and subsequent websites are governed entirely by those third parties' respective privacy policies.
+Media & Audio Files (Pure Audio Music Player, Canary Player Pro & Robin Mp3 offline music player, Simple music player offline): The music applications require user permission to access local device storage solely to scan, index, and display your local media files for playback management. We do not catalog, upload, or modify your files.
+**Lyrics Search Engine & Web Queries (Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Simple music player offline):** When you use our "Search Lyrics Online" feature, the application uses the track artist and song title to generate a standard web search string. This action opens your device’s default external web browser to display third-party search results (such as Google). We do not collect, transmit, track, or store these search queries on our servers. Your interactions with the web search engine and subsequent websites are governed entirely by those third parties' respective privacy policies.
 
-**Clipboard Access (Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player):** Our application allows you to manually paste song lyrics retrieved from your web browser into the app. The application accesses your device's system clipboard strictly when you explicitly initiate the paste action. This data is processed locally on your device solely to display and save the lyrics to your offline local media library database. We do not upload, share, or transmit your clipboard contents to any external servers or third parties.
+**Clipboard Access (Pure Audio Music Player, Canary Player Pro, Robin Mp3 offline music player, Simple music player offline):** Our application allows you to manually paste song lyrics retrieved from your web browser into the app. The application accesses your device's system clipboard strictly when you explicitly initiate the paste action. This data is processed locally on your device solely to display and save the lyrics to your offline local media library database. We do not upload, share, or transmit your clipboard contents to any external servers or third parties.
 
 Voice Search & Microphone Access (Search Mic)
-•How It Works: Canary Player Pro, Robin Mp3 offline music player includes an optional Voice Search feature allowing you to speak song titles, radio station frequencies, or audiobook names instead of typing.
+•How It Works: Canary Player Pro, Robin Mp3 offline music player, Simple music player offline includes an optional Voice Search feature allowing you to speak song titles, radio station frequencies, or audiobook names instead of typing.
 •Data Handling:
 ◦Voice processing is handled using Android’s native Speech Recognition framework (RecognizerIntent).
-◦Canary Player Pro, Robin Mp3 offline music player does NOT record, collect, store, or transmit your raw voice audio to external servers.
+◦Canary Player Pro, Robin Mp3 offline music player, Simple music player offline does NOT record, collect, store, or transmit your raw voice audio to external servers.
 ◦On supported Android devices, voice recognition is performed entirely on-device (offline). The spoken voice is converted locally into a plain text search string on your device.
 
 Text Search Query Input (Search Button)
@@ -48,16 +48,16 @@ Text Search Query Input (Search Button)
 •Data Handling:
 ◦Your search terms are used solely to fetch matching audio tracks, radio stations, podcasts, or audiobooks.
 ◦Search queries are never linked to any personal identity, account, email, or device ID.
-◦Canary Player Pro, Robin Mp3 offline music player does not log, track, or sell your search history
+◦Canary Player Pro, Robin Mp3 offline music player, Simple music player offline does not log, track, or sell your search history
 
 Live FM / Internet Radio & Recording
-•How It Works: Canary Player Pro, Robin Mp3 offline music player allows you to stream live public internet radio broadcasts (via the open Radio Browser directory and public Prasar Bharati/AIR streams) and optionally record live radio.
+•How It Works: Canary Player Pro, Robin Mp3 offline music player, Simple music player offline allows you to stream live public internet radio broadcasts (via the open Radio Browser directory and public Prasar Bharati/AIR streams) and optionally record live radio.
 •Data Handling:
 ◦Radio streaming establishes a direct, secure connection between your device and the station's public streaming server. No user profile or personal information is sent to radio station servers.
 ◦In-App Radio Recording: When you use the live radio recorder, the captured audio file (.mp3) is stored 100% locally on your phone's storage (/sdcard/Music/). Recorded audio is never uploaded, backed up, or shared online.
 
 Free Audiobooks & Classic Literature
-•How It Works: Canary Player Pro, Robin Mp3 offline music player streams classic public domain audiobooks via the open LibriVox Project and Internet Archive APIs.
+•How It Works: Canary Player Pro, Robin Mp3 offline music player, Simple music player offline streams classic public domain audiobooks via the open LibriVox Project and Internet Archive APIs.
 •Data Handling:
 ◦Audiobook chapters and metadata are fetched from open public domain archives.
 ◦No reading/listening history, user bookmarking data, or user profiles are tracked or transmitted to third parties.
@@ -89,7 +89,7 @@ Robin Habit Tracker: operates completely locally and does not access or request 
 
 Our ecosystem features two distinct app distributions. Data handling varies depending on the specific version you install:
 
-Premium/Paid Applications (Pure Audio Music Player, Canary Player Pro): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
+Premium/Paid Applications (Pure Audio Music Player, Canary Player Pro): Contain zero advertisements and utilize no third-party tracking layers. Your usage habits remain entirely private and offline. Free Applications (Robin Mp3 offline music player, Simple music player offline, Shopping List Tracker, Robin Habit Tracker and BookStreak : book tracker and TBR) (Ad-Supported): To keep these tools free to download, this version may display third-party advertisements. These ad providers (such as Google AdMob) may access device identifiers (like the Android Advertising ID) to serve non-personalized or personalized ads and monitor ad performance. No financial transaction details or user tracking profiles are stored or accessed by Robin Sound Labs.
 Advertising (Google AdMob)
 We use Google AdMob to display ads within the app, including Interstitial Ads and Native Advanced Ads. AdMob may use device identifiers, IP addresses, and browsing data to serve personalized or non-personalized ads in compliance with Google AdMob policies. You can learn more about how Google uses data at Google's Privacy & Terms https://policies.google.com/technologies/ads .
 Local Typography: To display interface typography, font assets are bundled locally within the application package and are rendered completely offline. No network requests are made to external engines for asset delivery.
@@ -112,10 +112,10 @@ We use the collected data for the following purposes:
 •To monitor the usage of the app and detect, prevent, and address technical issues or policy violations.
 
 * Data Security
-The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure. You can use Canary Player Pro, Robin Mp3 offline music player for features SMB, UPnP/DLNA and we do not track any of your data. 
+The security of your data is important to us. We utilize Google Firebase security rules, encrypted connections (HTTPS), and secure authentication protocols to protect your information. However, no method of transmission over the Internet or electronic storage is 100% secure. You can use Canary Player Pro, Robin Mp3 offline music player, Simple music player offline for features SMB, UPnP/DLNA and we do not track any of your data. 
 
 7. Community Guidelines & Prohibited Content
-Canary Player Pro, Robin Mp3 offline music player provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
+Canary Player Pro, Robin Mp3 offline music player, Simple music player offline provides community and chat features for music lovers. To ensure a safe and welcoming environment for everyone, users are strictly prohibited from posting, sharing, or transmitting:
 • Abusive, harassing, threatening, or hateful content.
 • Illegal content or content that violates local and international laws.
 • Spam, malware, or unauthorized commercial solicitations.
